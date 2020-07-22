@@ -1,2 +1,2 @@
-# Restaurant Website Template using Django as the backend technology
+# Restaurant Website Template using Django 
 
